@@ -9,7 +9,7 @@ body{
 
 }
 .header{
-    width: 100%;
+    background-size: cover;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/header-image.png);
     background-size: cover;
